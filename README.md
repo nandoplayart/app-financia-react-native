@@ -1,0 +1,1 @@
+# app-financia-react-native
